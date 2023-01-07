@@ -1,0 +1,61 @@
+
+*{
+    font-family: Work sans;
+}
+
+/* style for deader section */
+.header{ 
+    height: 808px;
+    width: 1600px;
+    background: url('banner1.png');
+    background-repeat: no-repeat;
+   
+}
+#headerId li{
+    list-style: none;
+    align-content: right;
+}
+#headerId{
+    margin:0 230px 167px 845px;
+
+}
+
+.title-text{
+    padding-top: 216px;    font-size: 40px;
+    font-weight: 700;
+    text-align: right;
+}
+
+.paragraph{
+    text-align: right;
+    font-size: 16px;
+    color: #444343;
+}
+.btn-primary{
+    background:#FD6E0A;
+    height: 64px;
+    border-radius:5px;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    color: #ffff;
+    padding: 18px 35px;
+    margin-left: 325px;
+}
+
+/* Style for main section */
+
+
+#background{
+    width: 527.93px;
+     height: 527.93px;
+     background-color: #F15B2233; border-radius: 50%; 
+     margin-left: 206px;
+    margin-top: 131px;
+}
+
+#image1{
+    
+    background-image: #F15B2233;
+    
+}
