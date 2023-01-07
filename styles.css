@@ -57,6 +57,16 @@
 
 }
 
+#image1{
+    
+    border-radius: 50%;
+    margin-top: 30px;
+    height: 400px;
+    background: rgba(241, 91, 34, 0.4);
+     
+
+}
+
 
 #divId1{
 
@@ -127,7 +137,8 @@ height: 400px;
     height: 64px;
     width: 100px;
     border-radius: 5px;
-    font-weight: bold;
+    font-weight:600;
+    font-size: 20px;
     
 }
 
@@ -150,7 +161,7 @@ height: 400px;
     justify-content:space-between;
     align-items: center;
     gap: 100px;
-    margin-left: 200px;
+    margin-left: 231px;
     margin-right: 100px;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -174,5 +185,5 @@ height: 400px;
     font-size: 17px;
 }
 .icon{
-    margin-left: 200px;
+    margin-left: 231px;
 }
