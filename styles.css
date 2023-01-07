@@ -3,6 +3,7 @@
     font-family: Work sans;
 }
 
+
 /* style for header section */
 .header{ 
     height: 808px;
@@ -57,15 +58,6 @@
 
 }
 
-#image1{
-    
-    border-radius: 50%;
-    margin-top: 30px;
-    height: 400px;
-    background: rgba(241, 91, 34, 0.4);
-     
-
-}
 
 
 #divId1{
